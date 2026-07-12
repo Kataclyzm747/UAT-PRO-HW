@@ -1,0 +1,33 @@
+selector{
+    property: value;
+}
+
+
+body{
+    background-color: rgb(2, 213, 9);
+    color:whitesmoke;
+}
+
+nav{
+   height: 600px;
+   width:  200;
+   float:  left;
+   padding:5px;
+   line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+#Funny meme.jpg{
+    margin-right: 200px;
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+
